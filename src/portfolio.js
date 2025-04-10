@@ -23,7 +23,7 @@ const greeting = {
   subTitle: emoji(
     "Analista de datos e ingeniero con pasión por la tecnología, los retos y el aprendizaje continuo. Me encanta trabajar con datos desde su origen hasta modelos de Machine Learning en producción. 📊💻🚀"
   ),
-  resumeLink: "https://tucv.com/cv-hazael-puche.pdf", // Reemplaza con un enlace real si subes tu CV
+  resumeLink: "https://github.com/thehazael10/developerFolio/blob/master/public/cv-hazael-puche.pdf", // Reemplaza con un enlace real si subes tu CV
   displayGreeting: true
 };
 
@@ -32,7 +32,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/thehazael10",
-  linkedin: "www.linkedin.com/in/hazaelpuchesanchez",
+  linkedin: "https://www.linkedin.com/in/hazaelpuchesanchez/",
   gmail: "hazaelpuche10@gmail.com",
   //gitlab: "https://gitlab.com/saadpasta",
   //facebook: "https://www.facebook.com/saad.pasta7",
